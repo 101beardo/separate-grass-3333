@@ -1,0 +1,153 @@
+#abc {
+  width: 100%;
+  display: flex;
+}
+#abc a {
+  text-decoration: none;
+  color: black;
+}
+#abc h1 {
+  padding-left: 30px;
+  padding-top: 20px;
+}
+#abc input {
+  margin: 0px 0px 50px 300px;
+}
+#navbar h1 {
+  margin: 0px 0px 50px 0px;
+}
+#navbar div {
+  display: flex;
+}
+#navbar div h2 {
+  padding: 40px;
+
+  margin: auto;
+}
+div > img {
+  width: 100%;
+}
+#fimg {
+  padding: 20px;
+}
+#simg {
+  padding: 20px;
+}
+#timg {
+  padding: 20px;
+}
+#sel {
+  padding: 20px;
+}
+#fimg > p {
+  z-index: 1px;
+}
+#top h1 {
+  padding: 20px;
+}
+#top > div {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+}
+#top img {
+  width: 80%;
+  display: block;
+  margin: auto;
+}
+#top > div > div > h3 {
+  text-align: center;
+}
+hr {
+  height: 2px;
+  width: 97%;
+  background-color: black;
+}
+#mid h1 {
+  text-align: center;
+}
+#mid > div {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  padding: 20px;
+}
+#mid img {
+  width: 100%;
+  display: block;
+  margin: auto;
+}
+#mid > div > div > h3 {
+  text-align: center;
+}
+#mids > div {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 20px;
+}
+#mids img {
+  width: 100%;
+  display: block;
+  margin: auto;
+}
+#fiimg h2 {
+  text-align: center;
+  padding: 40px;
+}
+#fiimg img {
+  width: 90%;
+  padding-left: 20px;
+}
+#midt > div {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 20px;
+}
+#midt img {
+  width: 100%;
+  display: block;
+  margin: auto;
+}
+#sbc h1 {
+  text-align: center;
+}
+#sbc > div {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  padding: 20px;
+}
+#sbc img {
+  width: 100%;
+  display: block;
+  margin: auto;
+}
+#sbc > div > div > h3 {
+  text-align: center;
+}
+#cl h2 {
+  text-align: center;
+}
+#cl p {
+  text-align: center;
+}
+#cl > div {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 20px;
+}
+#cl img {
+  width: 100%;
+  display: block;
+  margin: auto;
+}
+#cl > div > div > h3 {
+  text-align: center;
+}
+#foot div {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+#foot div li {
+  padding: 7px;
+  width: 195px;
+  list-style-type: none;
+  /* border: 1px solid red; */
+}
